@@ -1,0 +1,364 @@
+Färjestad BK - Linköping HC 3 - 2 SO;16/09/2017 05:45 PM;Löfbergs Arena
+HV71 - Djurgården Hockey 4 - 2;16/09/2017 05:45 PM;Kinnarps Arena
+Malmö Redhawks - Rögle BK;16/09/2017 05:45 PM;Malmö Arena
+Luleå Hockey - Örebro Hockey 4 - 3 SO;16/09/2017 08:30 PM;Coop Norrbotten Arena
+Frölunda HC - Mora IK 3 - 2 OT;16/09/2017 08:30 PM;Scandinavium
+Karlskrona HK - Skellefteå AIK 1 - 2;19/09/2017 09:30 PM;NKT Arena Karlskrona
+Växjö Lakers - Brynäs IF 4 - 3 SO;19/09/2017 09:30 PM;Vida Arena
+Brynäs IF - HV71 2 - 4;21/09/2017 09:30 PM;Gävlerinken Arena
+Skellefteå AIK - Färjestad BK 2 - 5;21/09/2017 09:30 PM;Skellefteå Kraft Arena
+Mora IK - Rögle BK 5 - 1;21/09/2017 09:30 PM;JALAS Arena
+Örebro Hockey - Luleå Hockey;21/09/2017 09:30 PM;Behrn Arena
+Linköping HC - Växjö Lakers 4 - 5 OT;21/09/2017 09:30 PM;Saab Arena
+Frölunda HC - Karlskrona HK;21/09/2017 09:30 PM;Scandinavium
+Djurgården Hockey - Malmö Redhawks 4 - 3 OT;21/09/2017 09:30 PM;Hovet
+Malmö Redhawks - Brynäs IF 5 - 1;23/09/2017 05:45 PM;Malmö Arena
+HV71 - Linköping HC;23/09/2017 05:45 PM;Kinnarps Arena
+Växjö Lakers - Örebro Hockey 2 - 1;23/09/2017 05:45 PM;Vida Arena
+Rögle BK - Skellefteå AIK 2 - 7;23/09/2017 05:45 PM;Lindab Arena
+Luleå Hockey - Djurgården Hockey 2 - 1 SO;23/09/2017 08:30 PM;Coop Norrbotten Arena
+Karlskrona HK - Mora IK;23/09/2017 08:30 PM;NKT Arena Karlskrona
+Färjestad BK - Frölunda HC 7 - 4;23/09/2017 09:30 PM;Löfbergs Arena
+HV71 - Karlskrona HK 3 - 2 SO;26/09/2017 09:30 PM;Kinnarps Arena
+Linköping HC - Luleå Hockey 2 - 3 OT;26/09/2017 09:30 PM;Saab Arena
+Skellefteå AIK - Växjö Lakers;28/09/2017 09:30 PM;Skellefteå Kraft Arena
+Brynäs IF - Djurgården Hockey;28/09/2017 09:30 PM;Gävlerinken Arena
+Luleå Hockey - HV71;28/09/2017 09:30 PM;Coop Norrbotten Arena
+Karlskrona HK - Linköping HC;28/09/2017 09:30 PM;NKT Arena Karlskrona
+Djurgården Hockey - Skellefteå AIK;30/09/2017 05:45 PM;Hovet
+Luleå Hockey - Linköping HC;30/09/2017 05:45 PM;Coop Norrbotten Arena
+Örebro Hockey - Brynäs IF;30/09/2017 05:45 PM;Behrn Arena
+Rögle BK - Malmö Redhawks;30/09/2017 05:45 PM;Lindab Arena
+Växjö Lakers - Frölunda HC;30/09/2017 08:30 PM;Vida Arena
+Karlskrona HK - HV71;30/09/2017 08:30 PM;NKT Arena Karlskrona
+Mora IK - Färjestad BK;30/09/2017 08:30 PM;JALAS Arena
+Färjestad BK - Mora IK;01/10/2017 04:30 PM;Löfbergs Arena
+Skellefteå AIK - HV71;05/10/2017 09:30 PM;Skellefteå Kraft Arena
+Brynäs IF - Karlskrona HK;05/10/2017 09:30 PM;Gävlerinken Arena
+Luleå Hockey - Frölunda HC;05/10/2017 09:30 PM;Coop Norrbotten Arena
+Malmö Redhawks - Färjestad BK;05/10/2017 09:30 PM;Malmö Arena
+Växjö Lakers - Mora IK;05/10/2017 09:30 PM;Vida Arena
+Rögle BK - Djurgården Hockey;05/10/2017 09:30 PM;Lindab Arena
+Linköping HC - Örebro Hockey;06/10/2017 09:30 PM;Saab Arena
+Skellefteå AIK - Malmö Redhawks;07/10/2017 05:45 PM;Skellefteå Kraft Arena
+Mora IK - HV71;07/10/2017 05:45 PM;JALAS Arena
+Färjestad BK - Brynäs IF;07/10/2017 05:45 PM;Löfbergs Arena
+Örebro Hockey - Linköping HC;07/10/2017 08:30 PM;Behrn Arena
+Karlskrona HK - Rögle BK;07/10/2017 08:30 PM;NKT Arena Karlskrona
+Frölunda HC - Luleå Hockey;07/10/2017 08:30 PM;Scandinavium
+Djurgården Hockey - Växjö Lakers;08/10/2017 04:30 PM;Hovet
+Malmö Redhawks - Örebro Hockey;09/10/2017 09:30 PM;Malmö Arena
+Luleå Hockey - Rögle BK;12/10/2017 09:30 PM;Coop Norrbotten Arena
+Frölunda HC - HV71;12/10/2017 09:30 PM;Scandinavium
+Djurgården Hockey - Färjestad BK;12/10/2017 09:30 PM;Hovet
+Örebro Hockey - Mora IK;12/10/2017 09:30 PM;Behrn Arena
+Linköping HC - Malmö Redhawks;12/10/2017 09:30 PM;Saab Arena
+Brynäs IF - Skellefteå AIK;12/10/2017 09:30 PM;Gävlerinken Arena
+Växjö Lakers - Karlskrona HK;13/10/2017 09:30 PM;Vida Arena
+Linköping HC - Frölunda HC;14/10/2017 05:45 PM;Saab Arena
+Djurgården Hockey - Mora IK;14/10/2017 05:45 PM;Hovet
+Skellefteå AIK - Brynäs IF;14/10/2017 05:45 PM;Skellefteå Kraft Arena
+HV71 - Färjestad BK;14/10/2017 08:30 PM;Kinnarps Arena
+Karlskrona HK - Växjö Lakers;14/10/2017 08:30 PM;NKT Arena Karlskrona
+Linköping HC - Djurgården Hockey;17/10/2017 09:30 PM;Saab Arena
+Malmö Redhawks - Luleå Hockey;17/10/2017 09:30 PM;Malmö Arena
+Frölunda HC - Örebro Hockey;17/10/2017 09:30 PM;Scandinavium
+Rögle BK - Färjestad BK;17/10/2017 09:30 PM;Lindab Arena
+Mora IK - Frölunda HC;19/10/2017 09:30 PM;JALAS Arena
+Brynäs IF - Rögle BK;19/10/2017 09:30 PM;Gävlerinken Arena
+Skellefteå AIK - Linköping HC;19/10/2017 09:30 PM;Skellefteå Kraft Arena
+Karlskrona HK - Djurgården Hockey;19/10/2017 09:30 PM;NKT Arena Karlskrona
+Färjestad BK - Luleå Hockey;19/10/2017 09:30 PM;Löfbergs Arena
+Växjö Lakers - Malmö Redhawks;19/10/2017 09:30 PM;Vida Arena
+HV71 - Örebro Hockey;19/10/2017 09:30 PM;Kinnarps Arena
+Luleå Hockey - Växjö Lakers;21/10/2017 05:45 PM;Coop Norrbotten Arena
+HV71 - Rögle BK;21/10/2017 05:45 PM;Kinnarps Arena
+Frölunda HC - Skellefteå AIK;21/10/2017 05:45 PM;Scandinavium
+Örebro Hockey - Färjestad BK;21/10/2017 08:30 PM;Behrn Arena
+Brynäs IF - Mora IK;21/10/2017 08:30 PM;Gävlerinken Arena
+Rögle BK - Linköping HC;24/10/2017 09:30 PM;Lindab Arena
+Färjestad BK - Växjö Lakers;24/10/2017 09:30 PM;Löfbergs Arena
+Djurgården Hockey - Örebro Hockey;24/10/2017 09:30 PM;Hovet
+Karlskrona HK - Luleå Hockey;24/10/2017 09:30 PM;NKT Arena Karlskrona
+Frölunda HC - Brynäs IF;24/10/2017 09:30 PM;Scandinavium
+Malmö Redhawks - HV71;24/10/2017 09:30 PM;Malmö Arena
+Skellefteå AIK - Mora IK;25/10/2017 09:30 PM;Skellefteå Kraft Arena
+Luleå Hockey - Malmö Redhawks;26/10/2017 09:30 PM;Coop Norrbotten Arena
+Brynäs IF - Färjestad BK;26/10/2017 09:30 PM;Gävlerinken Arena
+Växjö Lakers - Frölunda HC;26/10/2017 09:30 PM;Vida Arena
+HV71 - Karlskrona HK;26/10/2017 09:30 PM;Kinnarps Arena
+Linköping HC - Rögle BK;26/10/2017 09:30 PM;Saab Arena
+Djurgården Hockey - Skellefteå AIK;27/10/2017 09:30 PM;Hovet
+Mora IK - Örebro Hockey;27/10/2017 09:30 PM;JALAS Arena
+Rögle BK - Luleå Hockey;28/10/2017 05:45 PM;Lindab Arena
+Färjestad BK - Brynäs IF;28/10/2017 05:45 PM;Löfbergs Arena
+Frölunda HC - Linköping HC;28/10/2017 05:45 PM;Scandinavium
+Örebro Hockey - Mora IK;28/10/2017 05:45 PM;Behrn Arena
+Skellefteå AIK - Djurgården Hockey;28/10/2017 08:30 PM;Skellefteå Kraft Arena
+Malmö Redhawks - Karlskrona HK;28/10/2017 08:30 PM;Malmö Arena
+Växjö Lakers - HV71;28/10/2017 08:30 PM;Vida Arena
+Linköping HC - Brynäs IF;02/11/2017 09:30 PM;Saab Arena
+Luleå Hockey - HV71;02/11/2017 09:30 PM;Coop Norrbotten Arena
+Mora IK - Malmö Redhawks;02/11/2017 09:30 PM;JALAS Arena
+Frölunda HC - Skellefteå AIK;02/11/2017 09:30 PM;Scandinavium
+Karlskrona HK - Örebro Hockey;02/11/2017 09:30 PM;NKT Arena Karlskrona
+Djurgården Hockey - Färjestad BK;03/11/2017 09:30 PM;Hovet
+Rögle BK - Växjö Lakers;03/11/2017 09:30 PM;Lindab Arena
+Färjestad BK - Djurgården Hockey;04/11/2017 05:45 PM;Löfbergs Arena
+Skellefteå AIK - Malmö Redhawks;04/11/2017 05:45 PM;Skellefteå Kraft Arena
+HV71 - Frölunda HC;04/11/2017 05:45 PM;Kinnarps Arena
+Brynäs IF - Mora IK;04/11/2017 08:30 PM;Gävlerinken Arena
+Växjö Lakers - Rögle BK;04/11/2017 08:30 PM;Vida Arena
+Linköping HC - Karlskrona HK;05/11/2017 07:30 PM;Saab Arena
+Örebro Hockey - Skellefteå AIK;14/11/2017 09:30 PM;Behrn Arena
+Rögle BK - Mora IK;14/11/2017 09:30 PM;Lindab Arena
+Luleå Hockey - Färjestad BK;14/11/2017 09:30 PM;Coop Norrbotten Arena
+Malmö Redhawks - Linköping HC;14/11/2017 09:30 PM;Malmö Arena
+Karlskrona HK - Växjö Lakers;14/11/2017 09:30 PM;NKT Arena Karlskrona
+Brynäs IF - HV71;14/11/2017 09:30 PM;Gävlerinken Arena
+Frölunda HC - Djurgården Hockey;14/11/2017 09:30 PM;Scandinavium
+Luleå Hockey - Frölunda HC;16/11/2017 09:30 PM;Coop Norrbotten Arena
+Örebro Hockey - Rögle BK;16/11/2017 09:30 PM;Behrn Arena
+Djurgården Hockey - Växjö Lakers;16/11/2017 09:30 PM;Hovet
+Mora IK - Karlskrona HK;16/11/2017 09:30 PM;JALAS Arena
+Skellefteå AIK - Färjestad BK;16/11/2017 09:30 PM;Skellefteå Kraft Arena
+Malmö Redhawks - Brynäs IF;16/11/2017 09:30 PM;Malmö Arena
+Linköping HC - HV71;16/11/2017 09:30 PM;Saab Arena
+HV71 - Linköping HC;17/11/2017 09:30 PM;Kinnarps Arena
+Frölunda HC - Örebro Hockey;18/11/2017 05:45 PM;Scandinavium
+Brynäs IF - Malmö Redhawks;18/11/2017 05:45 PM;Gävlerinken Arena
+Färjestad BK - Rögle BK;18/11/2017 05:45 PM;Löfbergs Arena
+Växjö Lakers - Skellefteå AIK;18/11/2017 05:45 PM;Vida Arena
+Mora IK - Luleå Hockey;18/11/2017 08:30 PM;JALAS Arena
+Karlskrona HK - Djurgården Hockey;18/11/2017 08:30 PM;NKT Arena Karlskrona
+Luleå Hockey - Skellefteå AIK;21/11/2017 09:30 PM;Coop Norrbotten Arena
+Rögle BK - Örebro Hockey;21/11/2017 09:30 PM;Lindab Arena
+Malmö Redhawks - Frölunda HC;21/11/2017 09:30 PM;Malmö Arena
+Växjö Lakers - Färjestad BK;21/11/2017 09:30 PM;Vida Arena
+Linköping HC - Brynäs IF;21/11/2017 09:30 PM;Saab Arena
+Skellefteå AIK - Luleå Hockey;23/11/2017 09:30 PM;Skellefteå Kraft Arena
+Karlskrona HK - Brynäs IF;23/11/2017 09:30 PM;NKT Arena Karlskrona
+Linköping HC - Mora IK;23/11/2017 09:30 PM;Saab Arena
+Frölunda HC - Rögle BK;23/11/2017 09:30 PM;Scandinavium
+Örebro Hockey - Färjestad BK;23/11/2017 09:30 PM;Behrn Arena
+Malmö Redhawks - Växjö Lakers;23/11/2017 09:30 PM;Malmö Arena
+HV71 - Djurgården Hockey;23/11/2017 09:30 PM;Kinnarps Arena
+Skellefteå AIK - HV71;25/11/2017 05:45 PM;Skellefteå Kraft Arena
+Mora IK - Växjö Lakers;25/11/2017 05:45 PM;JALAS Arena
+Färjestad BK - Malmö Redhawks;25/11/2017 05:45 PM;Löfbergs Arena
+Frölunda HC - Linköping HC;25/11/2017 05:45 PM;Scandinavium
+Djurgården Hockey - Rögle BK;25/11/2017 08:30 PM;Hovet
+Örebro Hockey - Brynäs IF;25/11/2017 08:30 PM;Behrn Arena
+Luleå Hockey - Karlskrona HK;25/11/2017 08:30 PM;Coop Norrbotten Arena
+Rögle BK - Frölunda HC;28/11/2017 09:30 PM;Lindab Arena
+Växjö Lakers - HV71;28/11/2017 09:30 PM;Vida Arena
+Malmö Redhawks - Karlskrona HK;29/11/2017 09:30 PM;Malmö Arena
+Djurgården Hockey - Örebro Hockey;30/11/2017 09:30 PM;Hovet
+Brynäs IF - Rögle BK;30/11/2017 09:30 PM;Gävlerinken Arena
+Växjö Lakers - Luleå Hockey;30/11/2017 09:30 PM;Vida Arena
+Linköping HC - Skellefteå AIK;30/11/2017 09:30 PM;Saab Arena
+HV71 - Mora IK;30/11/2017 09:30 PM;Kinnarps Arena
+Karlskrona HK - Färjestad BK;01/12/2017 09:30 PM;NKT Arena Karlskrona
+Örebro Hockey - HV71;02/12/2017 05:45 PM;Behrn Arena
+Frölunda HC - Malmö Redhawks;02/12/2017 05:45 PM;Scandinavium
+Brynäs IF - Växjö Lakers;02/12/2017 05:45 PM;Gävlerinken Arena
+Luleå Hockey - Linköping HC;02/12/2017 05:45 PM;Coop Norrbotten Arena
+Mora IK - Djurgården Hockey;02/12/2017 08:30 PM;JALAS Arena
+Karlskrona HK - Färjestad BK;02/12/2017 08:30 PM;NKT Arena Karlskrona
+Rögle BK - Skellefteå AIK;02/12/2017 08:30 PM;Lindab Arena
+Örebro Hockey - Malmö Redhawks;07/12/2017 09:30 PM;Behrn Arena
+Skellefteå AIK - Mora IK;07/12/2017 09:30 PM;Skellefteå Kraft Arena
+Frölunda HC - Karlskrona HK;07/12/2017 09:30 PM;Scandinavium
+Färjestad BK - Växjö Lakers;07/12/2017 09:30 PM;Löfbergs Arena
+Rögle BK - HV71;07/12/2017 09:30 PM;Lindab Arena
+Djurgården Hockey - Linköping HC;07/12/2017 09:30 PM;Hovet
+Luleå Hockey - Brynäs IF;07/12/2017 09:30 PM;Coop Norrbotten Arena
+HV71 - Rögle BK;08/12/2017 09:30 PM;Kinnarps Arena
+Brynäs IF - Luleå Hockey;09/12/2017 05:45 PM;Gävlerinken Arena
+Malmö Redhawks - Djurgården Hockey;09/12/2017 05:45 PM;Malmö Arena
+Mora IK - Frölunda HC;09/12/2017 05:45 PM;JALAS Arena
+Linköping HC - Färjestad BK;09/12/2017 05:45 PM;Saab Arena
+Karlskrona HK - Skellefteå AIK;09/12/2017 08:30 PM;NKT Arena Karlskrona
+Växjö Lakers - Örebro Hockey;09/12/2017 08:30 PM;Vida Arena
+Färjestad BK - Mora IK;10/12/2017 04:30 PM;Löfbergs Arena
+HV71 - Luleå Hockey;19/12/2017 09:30 PM;Kinnarps Arena
+Djurgården Hockey - Karlskrona HK;19/12/2017 09:30 PM;Hovet
+Skellefteå AIK - Brynäs IF;19/12/2017 09:30 PM;Skellefteå Kraft Arena
+Linköping HC - Frölunda HC;19/12/2017 09:30 PM;Saab Arena
+Örebro Hockey - Växjö Lakers;19/12/2017 09:30 PM;Behrn Arena
+Rögle BK - Malmö Redhawks;19/12/2017 09:30 PM;Lindab Arena
+Djurgården Hockey - Luleå Hockey;21/12/2017 09:30 PM;Hovet
+Växjö Lakers - Brynäs IF;21/12/2017 09:30 PM;Vida Arena
+Karlskrona HK - Örebro Hockey;21/12/2017 09:30 PM;NKT Arena Karlskrona
+Malmö Redhawks - Skellefteå AIK;21/12/2017 09:30 PM;Malmö Arena
+Mora IK - HV71;21/12/2017 09:30 PM;JALAS Arena
+Frölunda HC - Rögle BK;21/12/2017 09:30 PM;Scandinavium
+Malmö Redhawks - Frölunda HC;26/12/2017 05:45 PM;Malmö Arena
+Luleå Hockey - Karlskrona HK;26/12/2017 05:45 PM;Coop Norrbotten Arena
+HV71 - Örebro Hockey;26/12/2017 05:45 PM;Kinnarps Arena
+Rögle BK - Linköping HC;26/12/2017 05:45 PM;Lindab Arena
+Mora IK - Djurgården Hockey;26/12/2017 08:30 PM;JALAS Arena
+Brynäs IF - Färjestad BK;26/12/2017 08:30 PM;Gävlerinken Arena
+Växjö Lakers - Skellefteå AIK;26/12/2017 08:30 PM;Vida Arena
+Luleå Hockey - Mora IK;28/12/2017 09:30 PM;Coop Norrbotten Arena
+Färjestad BK - Malmö Redhawks;28/12/2017 09:30 PM;Löfbergs Arena
+Örebro Hockey - Frölunda HC;28/12/2017 09:30 PM;Behrn Arena
+Skellefteå AIK - Rögle BK;28/12/2017 09:30 PM;Skellefteå Kraft Arena
+Linköping HC - Djurgården Hockey;28/12/2017 09:30 PM;Saab Arena
+HV71 - Växjö Lakers;28/12/2017 09:30 PM;Kinnarps Arena
+Karlskrona HK - Brynäs IF;28/12/2017 09:30 PM;NKT Arena Karlskrona
+Skellefteå AIK - Luleå Hockey;30/12/2017 05:45 PM;Skellefteå Kraft Arena
+Frölunda HC - Mora IK;30/12/2017 05:45 PM;Scandinavium
+Rögle BK - HV71;30/12/2017 05:45 PM;Lindab Arena
+Djurgården Hockey - Malmö Redhawks;30/12/2017 08:30 PM;Hovet
+Brynäs IF - Örebro Hockey;30/12/2017 08:30 PM;Gävlerinken Arena
+Linköping HC - Karlskrona HK;30/12/2017 08:30 PM;Saab Arena
+Växjö Lakers - Färjestad BK;30/12/2017 08:30 PM;Vida Arena
+Färjestad BK - Frölunda HC;02/01/2018 09:30 PM;Löfbergs Arena
+Malmö Redhawks - Skellefteå AIK;02/01/2018 09:30 PM;Malmö Arena
+Rögle BK - Djurgården Hockey;02/01/2018 09:30 PM;Lindab Arena
+Mora IK - Luleå Hockey;02/01/2018 09:30 PM;JALAS Arena
+Brynäs IF - Luleå Hockey;04/01/2018 09:30 PM;Gävlerinken Arena
+Mora IK - Skellefteå AIK;04/01/2018 09:30 PM;JALAS Arena
+Örebro Hockey - Djurgården Hockey;04/01/2018 09:30 PM;Behrn Arena
+Karlskrona HK - HV71;04/01/2018 09:30 PM;NKT Arena Karlskrona
+Färjestad BK - Rögle BK;04/01/2018 09:30 PM;Löfbergs Arena
+Frölunda HC - Växjö Lakers;04/01/2018 09:30 PM;Scandinavium
+Malmö Redhawks - Linköping HC;04/01/2018 09:30 PM;Malmö Arena
+Rögle BK - Växjö Lakers;06/01/2018 05:45 PM;Lindab Arena
+Mora IK - Brynäs IF;06/01/2018 05:45 PM;JALAS Arena
+Luleå Hockey - Örebro Hockey;06/01/2018 05:45 PM;Coop Norrbotten Arena
+Djurgården Hockey - Frölunda HC;06/01/2018 05:45 PM;Hovet
+Karlskrona HK - Malmö Redhawks;06/01/2018 08:30 PM;NKT Arena Karlskrona
+Skellefteå AIK - Linköping HC;06/01/2018 08:30 PM;Skellefteå Kraft Arena
+HV71 - Färjestad BK;07/01/2018 05:45 PM;Kinnarps Arena
+Färjestad BK - Djurgården Hockey;11/01/2018 09:30 PM;Löfbergs Arena
+HV71 - Frölunda HC;11/01/2018 09:30 PM;Kinnarps Arena
+Växjö Lakers - Karlskrona HK;11/01/2018 09:30 PM;Vida Arena
+Malmö Redhawks - Luleå Hockey;11/01/2018 09:30 PM;Malmö Arena
+Rögle BK - Brynäs IF;11/01/2018 09:30 PM;Lindab Arena
+Linköping HC - Mora IK;11/01/2018 09:30 PM;Saab Arena
+Skellefteå AIK - Örebro Hockey;12/01/2018 09:30 PM;Skellefteå Kraft Arena
+Djurgården Hockey - HV71;13/01/2018 05:45 PM;Hovet
+Luleå Hockey - Rögle BK;13/01/2018 05:45 PM;Coop Norrbotten Arena
+Färjestad BK - Karlskrona HK;13/01/2018 05:45 PM;Löfbergs Arena
+Malmö Redhawks - Växjö Lakers;13/01/2018 05:45 PM;Malmö Arena
+Brynäs IF - Frölunda HC;13/01/2018 05:45 PM;Gävlerinken Arena
+Örebro Hockey - Skellefteå AIK;13/01/2018 08:30 PM;Behrn Arena
+Mora IK - Linköping HC;13/01/2018 08:30 PM;JALAS Arena
+Färjestad BK - Karlskrona HK;14/01/2018 04:30 PM;Löfbergs Arena
+Rögle BK - Mora IK;18/01/2018 09:30 PM;Lindab Arena
+Skellefteå AIK - Karlskrona HK;18/01/2018 09:30 PM;Skellefteå Kraft Arena
+Växjö Lakers - Luleå Hockey;18/01/2018 09:30 PM;Vida Arena
+Örebro Hockey - Linköping HC;18/01/2018 09:30 PM;Behrn Arena
+Frölunda HC - Färjestad BK;18/01/2018 09:30 PM;Scandinavium
+Djurgården Hockey - Brynäs IF;18/01/2018 09:30 PM;Hovet
+HV71 - Malmö Redhawks;19/01/2018 09:30 PM;Kinnarps Arena
+Färjestad BK - Skellefteå AIK;20/01/2018 05:45 PM;Löfbergs Arena
+Brynäs IF - Djurgården Hockey;20/01/2018 05:45 PM;Gävlerinken Arena
+Växjö Lakers - Linköping HC;20/01/2018 05:45 PM;Vida Arena
+Karlskrona HK - Mora IK;20/01/2018 08:30 PM;NKT Arena Karlskrona
+Örebro Hockey - Rögle BK;20/01/2018 08:30 PM;Behrn Arena
+Frölunda HC - Luleå Hockey;20/01/2018 08:30 PM;Scandinavium
+Linköping HC - Örebro Hockey;23/01/2018 09:30 PM;Saab Arena
+Malmö Redhawks - HV71;23/01/2018 09:30 PM;Malmö Arena
+Luleå Hockey - Färjestad BK;25/01/2018 09:30 PM;Coop Norrbotten Arena
+Karlskrona HK - Frölunda HC;25/01/2018 09:30 PM;NKT Arena Karlskrona
+Djurgården Hockey - Rögle BK;25/01/2018 09:30 PM;Hovet
+Brynäs IF - Linköping HC;25/01/2018 09:30 PM;Gävlerinken Arena
+Mora IK - Växjö Lakers;25/01/2018 09:30 PM;JALAS Arena
+Örebro Hockey - Malmö Redhawks;25/01/2018 09:30 PM;Behrn Arena
+HV71 - Skellefteå AIK;25/01/2018 09:30 PM;Kinnarps Arena
+Skellefteå AIK - Frölunda HC;27/01/2018 05:45 PM;Skellefteå Kraft Arena
+Rögle BK - Karlskrona HK;27/01/2018 05:45 PM;Lindab Arena
+Malmö Redhawks - Mora IK;27/01/2018 05:45 PM;Malmö Arena
+Linköping HC - Luleå Hockey;27/01/2018 05:45 PM;Saab Arena
+Färjestad BK - Örebro Hockey;27/01/2018 08:30 PM;Löfbergs Arena
+Växjö Lakers - Djurgården Hockey;27/01/2018 08:30 PM;Vida Arena
+HV71 - Brynäs IF;27/01/2018 08:30 PM;Kinnarps Arena
+Färjestad BK - Luleå Hockey;28/01/2018 04:30 PM;Löfbergs Arena
+Mora IK - Malmö Redhawks;28/01/2018 05:45 PM;JALAS Arena
+Djurgården Hockey - Frölunda HC;29/01/2018 09:30 PM;Hovet
+Skellefteå AIK - Rögle BK;30/01/2018 09:30 PM;Skellefteå Kraft Arena
+Örebro Hockey - HV71;30/01/2018 09:30 PM;Behrn Arena
+Brynäs IF - Malmö Redhawks;30/01/2018 09:30 PM;Gävlerinken Arena
+Karlskrona HK - Linköping HC;30/01/2018 09:30 PM;NKT Arena Karlskrona
+Frölunda HC - Djurgården Hockey;30/01/2018 09:30 PM;Scandinavium
+Växjö Lakers - Mora IK;30/01/2018 09:30 PM;Vida Arena
+Mora IK - Karlskrona HK;01/02/2018 09:30 PM;JALAS Arena
+Rögle BK - Brynäs IF;01/02/2018 09:30 PM;Lindab Arena
+Linköping HC - Skellefteå AIK;01/02/2018 09:30 PM;Saab Arena
+Malmö Redhawks - Örebro Hockey;01/02/2018 09:30 PM;Malmö Arena
+HV71 - Växjö Lakers;01/02/2018 09:30 PM;Kinnarps Arena
+Djurgården Hockey - Luleå Hockey;01/02/2018 09:30 PM;Hovet
+Mora IK - Skellefteå AIK;03/02/2018 05:45 PM;JALAS Arena
+Linköping HC - HV71;03/02/2018 05:45 PM;Saab Arena
+Frölunda HC - Färjestad BK;03/02/2018 05:45 PM;Scandinavium
+Rögle BK - Örebro Hockey;03/02/2018 05:45 PM;Lindab Arena
+Brynäs IF - Växjö Lakers;03/02/2018 05:45 PM;Gävlerinken Arena
+Luleå Hockey - Djurgården Hockey;03/02/2018 08:30 PM;Coop Norrbotten Arena
+Karlskrona HK - Malmö Redhawks;03/02/2018 08:30 PM;NKT Arena Karlskrona
+Malmö Redhawks - Rögle BK;05/02/2018 09:30 PM;Malmö Arena
+Växjö Lakers - Djurgården Hockey;08/02/2018 09:30 PM;Vida Arena
+HV71 - Mora IK;08/02/2018 09:30 PM;Kinnarps Arena
+Luleå Hockey - Brynäs IF;08/02/2018 09:30 PM;Coop Norrbotten Arena
+Färjestad BK - Linköping HC;08/02/2018 09:30 PM;Löfbergs Arena
+Skellefteå AIK - Frölunda HC;08/02/2018 09:30 PM;Skellefteå Kraft Arena
+Örebro Hockey - Karlskrona HK;08/02/2018 09:30 PM;Behrn Arena
+Linköping HC - Malmö Redhawks;10/02/2018 05:45 PM;Saab Arena
+HV71 - Brynäs IF;10/02/2018 05:45 PM;Kinnarps Arena
+Örebro Hockey - Luleå Hockey;10/02/2018 05:45 PM;Behrn Arena
+Djurgården Hockey - Karlskrona HK;10/02/2018 08:30 PM;Hovet
+Rögle BK - Frölunda HC;10/02/2018 08:30 PM;Lindab Arena
+Skellefteå AIK - Växjö Lakers;10/02/2018 08:30 PM;Skellefteå Kraft Arena
+Mora IK - Färjestad BK;10/02/2018 08:30 PM;JALAS Arena
+Brynäs IF - Örebro Hockey;15/02/2018 09:30 PM;Gävlerinken Arena
+Färjestad BK - Skellefteå AIK;24/02/2018 05:45 PM;Löfbergs Arena
+Brynäs IF - Karlskrona HK;24/02/2018 05:45 PM;Gävlerinken Arena
+Mora IK - Rögle BK;24/02/2018 05:45 PM;JALAS Arena
+Djurgården Hockey - Linköping HC;24/02/2018 05:45 PM;Hovet
+Örebro Hockey - Frölunda HC;24/02/2018 08:30 PM;Behrn Arena
+Luleå Hockey - Växjö Lakers;24/02/2018 08:30 PM;Coop Norrbotten Arena
+HV71 - Malmö Redhawks;24/02/2018 08:30 PM;Kinnarps Arena
+Skellefteå AIK - Örebro Hockey;27/02/2018 09:30 PM;Skellefteå Kraft Arena
+Karlskrona HK - Luleå Hockey;27/02/2018 09:30 PM;NKT Arena Karlskrona
+Växjö Lakers - Rögle BK;27/02/2018 09:30 PM;Vida Arena
+Mora IK - Linköping HC;28/02/2018 09:30 PM;JALAS Arena
+Djurgården Hockey - Brynäs IF;28/02/2018 09:30 PM;Hovet
+Frölunda HC - Malmö Redhawks;28/02/2018 09:30 PM;Scandinavium
+Färjestad BK - HV71;28/02/2018 09:30 PM;Löfbergs Arena
+Örebro Hockey - Växjö Lakers;01/03/2018 09:30 PM;Behrn Arena
+Luleå Hockey - Mora IK;01/03/2018 09:30 PM;Coop Norrbotten Arena
+Linköping HC - Färjestad BK;01/03/2018 09:30 PM;Saab Arena
+Malmö Redhawks - Djurgården Hockey;01/03/2018 09:30 PM;Malmö Arena
+Brynäs IF - Frölunda HC;01/03/2018 09:30 PM;Gävlerinken Arena
+HV71 - Skellefteå AIK;01/03/2018 09:30 PM;Kinnarps Arena
+Rögle BK - Karlskrona HK;02/03/2018 09:30 PM;Lindab Arena
+Luleå Hockey - Malmö Redhawks;03/03/2018 05:45 PM;Coop Norrbotten Arena
+Frölunda HC - HV71;03/03/2018 05:45 PM;Scandinavium
+Djurgården Hockey - Mora IK;03/03/2018 05:45 PM;Hovet
+Växjö Lakers - Linköping HC;03/03/2018 05:45 PM;Vida Arena
+Brynäs IF - Skellefteå AIK;03/03/2018 08:30 PM;Gävlerinken Arena
+Karlskrona HK - Rögle BK;03/03/2018 08:30 PM;NKT Arena Karlskrona
+Färjestad BK - Örebro Hockey;03/03/2018 08:30 PM;Löfbergs Arena
+Skellefteå AIK - Djurgården Hockey;06/03/2018 09:30 PM;Skellefteå Kraft Arena
+Mora IK - Brynäs IF;06/03/2018 09:30 PM;JALAS Arena
+Linköping HC - Rögle BK;06/03/2018 09:30 PM;Saab Arena
+Örebro Hockey - Karlskrona HK;06/03/2018 09:30 PM;Behrn Arena
+HV71 - Luleå Hockey;06/03/2018 09:30 PM;Kinnarps Arena
+Malmö Redhawks - Färjestad BK;06/03/2018 09:30 PM;Malmö Arena
+Frölunda HC - Växjö Lakers;06/03/2018 09:30 PM;Scandinavium
+Djurgården Hockey - HV71;08/03/2018 09:30 PM;Hovet
+Brynäs IF - Linköping HC;08/03/2018 09:30 PM;Gävlerinken Arena
+Mora IK - Örebro Hockey;08/03/2018 09:30 PM;JALAS Arena
+Luleå Hockey - Skellefteå AIK;08/03/2018 09:30 PM;Coop Norrbotten Arena
+Karlskrona HK - Frölunda HC;08/03/2018 09:30 PM;NKT Arena Karlskrona
+Växjö Lakers - Malmö Redhawks;08/03/2018 09:30 PM;Vida Arena
+Rögle BK - Färjestad BK;08/03/2018 09:30 PM;Lindab Arena
+Örebro Hockey - Djurgården Hockey;10/03/2018 05:45 PM;Behrn Arena
+Skellefteå AIK - Karlskrona HK;10/03/2018 05:45 PM;Skellefteå Kraft Arena
+Frölunda HC - Brynäs IF;10/03/2018 05:45 PM;Scandinavium
+Linköping HC - Växjö Lakers;10/03/2018 05:45 PM;Saab Arena
+Färjestad BK - HV71;10/03/2018 05:45 PM;Löfbergs Arena
+Rögle BK - Luleå Hockey;10/03/2018 05:45 PM;Lindab Arena
+Malmö Redhawks - Mora IK;10/03/2018 05:45 PM;Malmö Arena
